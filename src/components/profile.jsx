@@ -1,3 +1,7 @@
-import React from "react";
+import React from 'react';
+import PropTypes from 'prop-types';
 
-ref
+
+export default function profile(params) {
+    
+};
